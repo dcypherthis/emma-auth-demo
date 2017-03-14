@@ -1,0 +1,27 @@
+{
+  "name": "emma-auth-demo",
+  "version": "0.0.1",
+  "description": "quick demo of emma oauth flow using express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyrexus/emma-auth-demo.git"
+  },
+  "keywords": [
+    "emma",
+    "oauth2"
+  ],
+  "author": "joyrexus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyrexus/emma-auth-demo/issues"
+  },
+  "homepage": "https://github.com/joyrexus/emma-auth-demo#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
